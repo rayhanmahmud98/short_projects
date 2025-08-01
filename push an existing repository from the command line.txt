@@ -1,0 +1,3 @@
+git remote add origin https://github.com/rayhanmahmud98/short_projects.git
+git branch -M main
+git push -u origin main
